@@ -62,7 +62,7 @@ const App = () => {
 
   return (
     <div className="aplicacao">
-      <h1>Infoweb - React</h1>
+      <h1>Sistemas operacionais</h1>
       <div>
         <label htmlFor="tarefa">Informe a nova tarefa: </label>
         <input type="text" id="tarefa" value={tarefa} onChange={escutarModificacaoTexto} />
